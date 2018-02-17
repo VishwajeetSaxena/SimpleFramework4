@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4295" started-at="2018-02-17T11:04:34Z" finished-at="2018-02-17T11:04:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4295" started-at="2018-02-17T11:04:34Z" finished-at="2018-02-17T11:04:38Z">
+      <class name="Base.Base">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Base.Base@68c4039c]" name="initDriver" is-config="true" duration-ms="3276" started-at="2018-02-17T16:34:31Z" finished-at="2018-02-17T16:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="TC1()[pri:0, instance:Base.Base@68c4039c]" name="TC1" duration-ms="4248" started-at="2018-02-17T16:34:34Z" finished-at="2018-02-17T16:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Base.Base@68c4039c]" name="quitDriver" is-config="true" duration-ms="5977" started-at="2018-02-17T16:34:38Z" finished-at="2018-02-17T16:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Base.Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
